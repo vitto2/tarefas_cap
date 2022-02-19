@@ -1,4 +1,8 @@
 # tarefas_cap
+
+
+Todos os códigos já estão com as informações necessárias para rodar. Basta baixar o projeto e executar.
+
 01 - Projeto piramide de estrelinhas 
 
 Foram usados dois laços de repetição. As estrelas são jogadas na tela apenas quando a variável controladora do laço 02 é menor ou igual a variável controladora do laço 01. Desta forma a estrela é exibida de forma gradativa na tela. 
